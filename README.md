@@ -6,6 +6,7 @@ Projeyi şuanlık paylaşmayı düşünmüyorum. Kullanıcı verilerini auranest
 <details>
   <summary>Kullanıcı Komutları</summary>
 <img width="514" height="891" alt="image" src="https://github.com/user-attachments/assets/18d33df5-5056-4fe0-add3-6a7f4dc593dd" />
+</details>
 
 ## License
 Telif Hakkı © 2025 [Begul](https://github.com/bbevqZip) & [Auranest](https://discord.gg/auranest)
